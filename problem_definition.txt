@@ -1,0 +1,16 @@
+🧩 Step 1: Problem Definition
+Predict patient readmission within 30 days after discharge.
+
+Objectives:
+
+Identify high-risk patients.
+
+Reduce hospital costs.
+
+Improve patient outcomes.
+
+Stakeholders:
+Doctors, hospital admin, IT team.
+
+KPI:
+Model AUC ≥ 0.85
